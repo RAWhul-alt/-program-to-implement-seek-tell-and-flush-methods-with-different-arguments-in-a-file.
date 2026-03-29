@@ -1,0 +1,1 @@
+# -program-to-implement-seek-tell-and-flush-methods-with-different-arguments-in-a-file.
